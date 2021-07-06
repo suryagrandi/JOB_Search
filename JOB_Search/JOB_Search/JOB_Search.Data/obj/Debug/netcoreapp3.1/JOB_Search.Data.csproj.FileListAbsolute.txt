@@ -1,0 +1,15 @@
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Data.deps.json
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Data.runtimeconfig.json
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Data.runtimeconfig.dev.json
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Data.dll
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Data.pdb
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Common.dll
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\bin\Debug\netcoreapp3.1\JOB_Search.Common.pdb
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.csprojAssemblyReference.cache
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.AssemblyInfoInputs.cache
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.AssemblyInfo.cs
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.csproj.CoreCompileInputs.cache
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.csproj.CopyComplete
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.dll
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.pdb
+D:\SuryaBhaskarGrandi\Working Projects\JOB_SEARCH\JOB_Search\JOB_Search.Data\obj\Debug\netcoreapp3.1\JOB_Search.Data.genruntimeconfig.cache

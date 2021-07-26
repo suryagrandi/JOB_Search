@@ -42,6 +42,9 @@ namespace JOB_Search.Common.Models
 
         [Required(ErrorMessage = "LanguageId is required")]
         public int? LanguageId { get; set; }
+
+        [Required(ErrorMessage = "LanguageId is required")]
+        public int? LanguageTypeId { get; set; }
     }
 
     public partial class JobProfilesViewModel
